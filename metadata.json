@@ -1,0 +1,8 @@
+{
+  "name": "RIGOO — Share the Journey",
+  "description": "AI-Powered Bike Pooling Platform connecting daily bike commuters for intelligent route matching, verified ride sharing, real-time GPS tracking, and fuel cost splitting.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
